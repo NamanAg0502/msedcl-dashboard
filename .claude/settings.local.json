@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(psql:*)",
+      "Bash(ls:*)",
+      "Bash(npx supabase:*)",
+      "Bash(node check-tables.js:*)",
+      "Bash(node populate-data.js:*)",
+      "Bash(node fix-statuses.js:*)"
+    ]
+  }
+}
